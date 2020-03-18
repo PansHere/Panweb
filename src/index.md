@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Pans Website Info
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Pan.io
+postsHeading: Latest Updates
+archiveButtonText: See All Updates
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+A lightweight [](https://11ty.io)Discord bot that handles simple moderation, fun commands, and much more! 
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+If you would like to invite panio to your discord [click here](https://discordapp.com/api/oauth2/authorize?client_id=689679710871093254&permissions=8&scope=bot)
