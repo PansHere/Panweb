@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Pan.io
+title: Pan.io Bot
 postsHeading: Latest Updates
 archiveButtonText: See All Updates
 socialImage: ''
