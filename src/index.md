@@ -2,7 +2,7 @@
 layout: home
 title: Pan.io Bot
 metaDesc: ''
-postsHeading: Server Partners
+postsHeading: Server Alliances
 archiveButtonText: See All Updates
 socialImage: ''
 ---
