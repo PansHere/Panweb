@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Pan.io Bot
-postsHeading: Latest Updates
+postsHeading: Pans Hub Links
 archiveButtonText: See All Updates
 socialImage: ''
 ---
