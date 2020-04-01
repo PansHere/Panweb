@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Pan.io Bot
+title: Pans Global Bot
 metaDesc: ''
 postsHeading: Server Alliances
 archiveButtonText: See All Updates
