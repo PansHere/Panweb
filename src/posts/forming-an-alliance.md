@@ -20,4 +20,4 @@ The bot informs new users about our Alliance on your server, Auto Posts your ser
 
 `STEP 2:` **Inform Pan \[CoolKidz Owner], and he will manually set up the perks.**
 
-![](images/perks.png)
+![Perks](images/perks.png "Perks")
