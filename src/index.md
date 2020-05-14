@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Pans Global Bot
-metaDesc: ''
-postsHeading: Server Alliances
+metaDesc: ""
+postsHeading: Pans List
 archiveButtonText: See All Updates
-socialImage: ''
+socialImage: ""
 ---
 A lightweight [](https://11ty.io)Discord bot that handles simple moderation, fun commands, and used for creating alliances with other servers. \
 `scroll down to learn more`
